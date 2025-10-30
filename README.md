@@ -46,6 +46,7 @@ All without writing a single backend script — thanks to **n8n’s no-code auto
         └─ No  → [ Store + Wait ]
 
 
+![n8n Workflow Overview](https://github.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/blob/main/n8nworkflow.png?raw=true)
 
 ⚙️ Workflow Components
 Step	Node	Description
@@ -158,8 +159,43 @@ Build a personal job intelligence system
 
 📸 Screenshots
 
-<img width="1914" height="882" alt="image" src="https://github.com/user-attachments/assets/2e96805b-a19d-4329-9f19-258112ddf95a" />
+![Result Sheet](https://github.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/blob/main/Result-sheets.png?raw=true)
+📈 Impact
 
+This workflow demonstrates the real-world power of AI Automation and No-Code tools.
+It combines machine intelligence, data organization, and human-like writing to save hours of manual effort.
+
+Highlights
+
+⚡ Fully automated pipeline
+
+💬 Human-quality cover letters
+
+📲 Real-time Telegram alerts
+
+📊 Structured job tracking
+
+🧠 End-to-end AI integration
+
+👨‍💻 Author
+
+Tarifuddin Ahmed
+🎓 M.Tech Data Science @ IIT Madras
+💡 AI | Automation | Full Stack | Data Science
+
+📬 Connect With Me:
+
+GitHub
+
+LinkedIn
+
+Email
+
+“Don’t search for jobs manually — build systems that find them for you.” 🚀
+
+🪄 License
+
+This project is licensed under the MIT License — free for personal and educational use
 
 
 
