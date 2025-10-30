@@ -46,7 +46,8 @@ All without writing a single backend script — thanks to **n8n’s no-code auto
         └─ No  → [ Store + Wait ]
 
 
-https://raw.githubusercontent.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/main/n8nworkflow.png
+![n8n Workflow](https://raw.githubusercontent.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/main/n8nworkflow.png)
+
 
 ⚙️ Workflow Components
 Step	Node	Description
