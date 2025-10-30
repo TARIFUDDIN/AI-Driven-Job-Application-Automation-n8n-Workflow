@@ -46,7 +46,7 @@ All without writing a single backend script — thanks to **n8n’s no-code auto
         └─ No  → [ Store + Wait ]
 
 
-![n8n Workflow Overview](https://github.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/blob/main/n8nworkflow.png?raw=true)
+https://raw.githubusercontent.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/main/n8nworkflow.png
 
 ⚙️ Workflow Components
 Step	Node	Description
@@ -159,7 +159,7 @@ Build a personal job intelligence system
 
 📸 Screenshots
 
-![Result Sheet](https://github.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/blob/main/Result-sheets.png?raw=true)
+https://raw.githubusercontent.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/main/Result-sheets.png
 📈 Impact
 
 This workflow demonstrates the real-world power of AI Automation and No-Code tools.
