@@ -45,7 +45,7 @@ All without writing a single backend script — thanks to **n8n’s no-code auto
         ├─ Yes → [ Telegram Notification ]
         └─ No  → [ Store + Wait ]
 
-![Workflow Screenshot](https://github.com/user-attachments/assets/5774d83a-d3fa-4036-8380-c72d3e2a78ab)
+
 
 ⚙️ Workflow Components
 Step	Node	Description
