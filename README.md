@@ -47,7 +47,8 @@ All without writing a single backend script — thanks to **n8n’s no-code auto
 
 
 ## 🧠 AI-Driven Job Application Workflow
-![n8n Workflow](https://raw.githubusercontent.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow-/main/n8nworkflow.png)
+https://raw.githubusercontent.com/TARIFUDDIN/AI-Driven-Job-Application-Automation-n8n-Workflow/main/n8nworkflow.png
+
 
 
 
